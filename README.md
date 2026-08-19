@@ -19,4 +19,4 @@ spanning 6 months (Jan–Jun 2026).
 Power BI Desktop, DAX
 
 ## Screenshot
-![Dashboard](Screenshot 2026-08-19 084826.png)
+![Dashboard](Screenshot%202026-08-19%20084826.png)
